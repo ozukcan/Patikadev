@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/lunTL8TvZFtTgJu1yB8HXc9tCa3dc1smWbzPQE86rgS2T1GaQwcTNi24r/lBMWdMrHSPP+/T7fP7G2qOr2rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sparkus\\Documents\\GitHub\\Patikadev\\While-Foreach\\While-Foreach\\While-Foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sparkus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
