@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0Rt2SFg+2cc8d5/9WCVKcU+KQXJD2icStPnlW+dMsxHwx6bpD7dIsIkNGAcnNsq+o5XGwNfeYFXXbjst1vtcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sparkus\\Desktop\\Patikadev\\C#101\\Operatorler\\Operatorler\\Operatorler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sparkus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
