@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXOR4tjykvfZeKtzT+LsrC+uSYpAD8NS/c75Y93zTUioe78N24FanihtzM4b60A2f0ULFwqt2AOKw9l0Bfa4bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sparkus\\Documents\\GitHub\\Patikadev\\Dizilerle_Dongu_Uygulamalari\\Dizilerle_Dongu_Uygulamalari\\Dizilerle_Dongu_Uygulamalari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sparkus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
