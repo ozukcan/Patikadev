@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQ+f7UUQy4Lo0eWv7ujdjA/Zn7Hv0zKwLc9MxmTE69XYc3jFdYQ3MwBY/PcByWx6km7E8rEQhUpQ/OAEC+iUWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sparkus\\Desktop\\Patikadev\\C#101\\Degiskenler_Veri_Tipleri\\Degiskenler_Veri_Tipleri\\Degiskenler_Veri_Tipleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sparkus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
