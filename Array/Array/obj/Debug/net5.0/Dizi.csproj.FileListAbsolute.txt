@@ -1,0 +1,15 @@
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.exe
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.deps.json
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.runtimeconfig.json
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.runtimeconfig.dev.json
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.dll
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\ref\Dizi.dll
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\bin\Debug\net5.0\Dizi.pdb
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.AssemblyInfoInputs.cache
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.AssemblyInfo.cs
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.dll
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\ref\Dizi.dll
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.pdb
+C:\Users\Sparkus\Documents\GitHub\Patikadev\Array\Array\obj\Debug\net5.0\Dizi.genruntimeconfig.cache
